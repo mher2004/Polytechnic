@@ -1,1 +1,1 @@
-# Polytechnic-Algorithms
+# Polytechnic Projects
