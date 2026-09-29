@@ -97,7 +97,6 @@ It also serves as a portfolio of academic programming, algorithms, Artificial In
 Depending on the course and assignment, projects in this repository may use technologies such as:
 
 - **Python**
-- **C / C++**
 - **NumPy**
 - **Pandas**
 - **Matplotlib**
