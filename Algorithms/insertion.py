@@ -1,3 +1,7 @@
+from random import randint
+a = [randint(0,500) for i in range(10)]
+print(a)
+
 def insertion_sort(arr):
     for i in range(1, len(arr)):
         j = i - 1
@@ -6,7 +10,6 @@ def insertion_sort(arr):
             arr[j + 1] = arr[j]
             j -= 1
         arr[j + 1] = key
-    return arr
 
-
-print(insertion_sort([5, 7, 1, 5, 1, 0, 8, 1]))
+insertion_sort(a)
+print(a)
